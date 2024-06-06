@@ -15,7 +15,7 @@ body {
   margin-top: 8%;
   text-align: center;
 }
-.tribute-page {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +58,7 @@ body {
 
 /*responsive*/
 @media screen and (max-width: 768px) {
-  .tribute-page {
+  .container {
     flex-direction: column;
   }
 
